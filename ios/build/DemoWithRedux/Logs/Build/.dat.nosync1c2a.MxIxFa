@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>31A0001A-DF5E-4F7F-B095-F63E19CC0C0E</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>31A0001A-DF5E-4F7F-B095-F63E19CC0C0E.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>DemoWithRedux project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DemoWithRedux</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project DemoWithRedux with scheme DemoWithRedux and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>583318194.44349098</real>
+			<key>timeStoppedRecording</key>
+			<real>583318199.48534596</real>
+			<key>title</key>
+			<string>Building project DemoWithRedux with scheme DemoWithRedux and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>31A0001A-DF5E-4F7F-B095-F63E19CC0C0E</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
